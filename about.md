@@ -6,9 +6,29 @@ permalink: /about/
 
 ### About me
 
-My name is Greg Hluska and I am a highly technical marketer from Regina, Canada.
+My name is Greg Hluska and I am a web developer, marketer, writer and entrepreneur from Regina, Canada. I especially like working with other entrepreneurs, analyzing complex problems and solving the most difficult problems in sometimes unorthodox ways. A graduate of the University of Regina's School of Business, some of my favourite topics include user experience (UX), front-end web development, quality assurance and user testing, and calculating the return on investment (ROI) from advertising.
+
+When I'm not obsessing over conversion rates, entrepreneurship or another fucking MVC framework (because we really need 500 javascript MVC frameworks), I am an avid music fan who obsesses over vinyl, a climber who obsesses over mountains, and a baseball fan who obsesses over statistics. I used to cross country ski, but then I broke my right thumb, saw the light and realized that putting slippery boards on your feet and trudging through snow is not a sport, it is lunacy.
 
 ### About this site
+
+My homepages have gone through an interesting transition over the last decade. When I first went back to University, I was a mostly anonymous blogger. But, then business school took over and the idea of owning hluska.ca started to seem more and more attractive.
+
+Identity wasn't the only thing that shifted. In my first blogs, my content was rather diverse and in a given week, I could be expected to blog about everything from climate change to proportional representation to the absolute  superiority of whatever particular album I couldn't stop listening to then. Business came up, but it was mostly in reference to whatever new business idea I was working on.
+
+Through the years, I have gotten more into analysis, but my subject matter was still all over the place. When I say 'all over the place', I mean that my five all-time most popular blog posts were about:
+
+- problems with an earlier incarnation of HTML5.
+- a referendum in Regina, Canada.
+- my absolute disdain for growth hacking (or reasons why business should be about growing profits, not metrics like MAU or DAU)
+- five surprising sources of usability analytics.
+- the one year anniversary of M.C.A.'s death.
+
+This website will be mostly about marketing and entrepreneurship.
+
+To sum this site up, it is about marketing myself.
+
+### About this site (technical)
 
 When I first went online, the concept of serving content from a database was totally foreign to me. My site was all static HTML because that's just how it was done. Then, I made a few changes to my main menu, had to manually update that on 80 static HTML pages, and promptly got into PHP includes.
 
