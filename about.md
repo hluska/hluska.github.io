@@ -24,9 +24,7 @@ Through the years, I have gotten more into analysis, but my subject matter was s
 - five surprising sources of usability analytics.
 - the one year anniversary of M.C.A.'s death.
 
-This website will be mostly about marketing and entrepreneurship.
-
-To sum this site up, it is about marketing myself.
+This time, I'm going to try really hard to confine my writing to things related to marketing, web development and entrepreneurship.
 
 ### About this site (technical)
 
