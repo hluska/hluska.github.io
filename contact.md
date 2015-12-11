@@ -10,7 +10,7 @@ If you want to get in touch, the best way is always via email or SMS. If you don
 
 <form action="//formspree.io/ghluska@gmail.com"
       method="POST">
-    <input type="email" name="_replyto" placeholder="Your email"><br/>
+    <input type="email" name="_replyto" placeholder="Your email"><br>
     <textarea name="message" rows="5" placeholder="Your message"></textarea>
     <input type="submit" value="Send">
 </form>
