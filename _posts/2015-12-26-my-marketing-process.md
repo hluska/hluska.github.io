@@ -12,7 +12,7 @@ I start off at the product because I know that the experience of using a product
 
 After I have critically evaluated a product, I take a look at how that product is communicated with the outside world. I like to start off with a website and move outwards into things like signage, current advertisements, and public relations. I will also spend many hours with Google to find out what other people are saying about the particular product or service. This step is important because:
 
-* Communications need to match the product. If you claim that you calendar app is easy to use, it sure better be. If you claim to serve the best burgers west of the third meridian, you better have a damned good burger. Consumers are used to ads and have developed a very strong bullshit detector.
+* Communications need to match the product. If you claim that your calendar app is easy to use, it sure better be. If you claim to serve the best burgers west of the third meridian, you better have a damned good burger. Consumers are used to ads and have developed a very strong bullshit detector.
 * Communications need to be clear about what the product is and what problems it can solve.
 * It gives me a sense of who a particular product or service is targeted to.
 
