@@ -16,7 +16,7 @@ I am comfortable working throughout the entire digital stack. I can:
 * Fill apps/websites with content, including technical support for users.
 * Promote apps/websites with a variety of on and off-line tools.
 * Analyze traffic with a variety of tools and use this analysis to determine which marketing channels provide the highest return on investment.
-* Relentlessly chase higher and higher returns on investment.p
+* Relentlessly chase higher and higher returns on investment.
  
 My experience as an entrepreneur and working with early stage technology companies has significantly changed my views about marketing. Consequently, I am a little more product obsessed than most other marketers. My obsession with product has lead me to focus on usability and reliability over raw technical brilliance. It has also lead me to consider functions like technical support, quality assurance (especially pre-release), and user experience as marketing functions.
 
