@@ -4,37 +4,23 @@ title: About
 permalink: /about/
 ---
 
-### About me
+My name is Greg Hluska (I pronounce it huh-luska) and I am a full stack digital marketer from Regina, Canada. A graduate of the University of Regina's School of Business, I have several years of experience founding companies (funded and bootstrapped), running marketing campaigns, doing sales, and building things for the web.
 
-My name is Greg Hluska and I am a web developer, marketer, writer and entrepreneur from Regina, Canada. I especially like working with other entrepreneurs, analyzing complex problems and solving the most difficult problems in sometimes unorthodox ways. A graduate of the University of Regina's School of Business, some of my favourite topics include user experience (UX), front-end web development, quality assurance and user testing, and calculating the return on investment (ROI) from advertising.
+### What is a full stack digital marketer?
 
-When I'm not obsessing over conversion rates, business and generating revenue, I am an avid music fan who obsesses over vinyl, a climber who obsesses over mountains, and a baseball fan who obsesses over statistics. I used to cross country ski but then I broke my right thumb and haven't been on skis since.
+I am comfortable working throughout the entire digital stack. I can:
 
-### About this site
+* Build a custom content management system (CMS).
+* Deploy major open source content management systems and build custom themes or plugins. I have the most experience with Wordpress, Drupal, Joomla and Magento.
+* Set up online payments with a particular emphasis on security and the payment card industry's data security standards (PCI-DSS).
+* Fill apps/websites with content, including technical support for users.
+* Promote apps/websites with a variety of on and off-line tools.
+* Analyze traffic with a variety of tools and use this analysis to determine which marketing channels provide the highest return on investment.
+* Relentlessly chase higher and higher returns on investment.p
+ 
+My experience as an entrepreneur and working with early stage technology companies has significantly changed my views about marketing. Consequently, I am a little more product obsessed than most other marketers. My obsession with product has lead me to focus on usability and reliability over raw technical brilliance. It has also lead me to consider functions like technical support, quality assurance (especially pre-release), and user experience as marketing functions.
 
-My homepages have gone through an interesting transition over the last decade. When I first went back to University, I was a mostly anonymous blogger. But, then business school took over and the idea of owning hluska.ca started to seem more and more attractive.
-
-Identity wasn't the only thing that shifted. In my first blogs, my content was rather diverse and in a given week, I could be expected to blog about everything from climate change to voting reform to the absolute  superiority of whatever particular album I couldn't stop listening to then. Business came up, but it was mostly in reference to whatever new business idea I was working on.
-
-Through the years, I have gotten more into analysis, but my subject matter was still all over the place. When I say 'all over the place', I mean that my five all-time most popular blog posts were about:
-
-- problems with an earlier incarnation of HTML5.
-- a referendum in Regina, Canada.
-- my absolute disdain for growth hacking (or reasons why business should be about growing profits, not metrics like MAU or DAU)
-- five surprising sources of usability analytics.
-- the one year anniversary of M.C.A.'s death.
-
-This time, I'm going to try really hard to confine my writing to things related to marketing, web development and entrepreneurship.
-
-### About this site (technical)
-
-When I first went online, the concept of serving content from a database was totally foreign to me. My site was all static HTML because that's just how it was done. Then, I made a few changes to my main menu, had to manually update that on 80 static HTML pages, and promptly got into PHP includes.
-
-After a few years of using a mostly static blog, it was an easy decision to bring a database into the mix and start using Wordpress. WP made blogging so easy that it was my default choice for years and years and years.
-
-But, a few years ago, I started using [http://www.leanpub.com](Leanpub) for long form writing and got kind of obsessed with Markdown. I found that armed with Git, Markdown and [fargo.io](Fargo.io), I was a significantly more productive writer. This severely hurt my blogging - going from my new flow back to Wordpress felt like jogging in quicksand. So, I started looking for new options.
-
-Jekyll was instantly attractive to me and, since I was already using Git, I thought that for my next version of my website, I would try hosting my site on Github Pages. It feels funny writing an about page in a text editor - I have grown so used to Wordpress over the years that I associate writing for the web with its interfaace. It also feels funny knowing that after all these years, my website is fully static again.
+Working for myself and other entrepreneurs has also made me rather obsessive about revenue. Years of making cold calls and closing inbound leads has turned me into a pretty decent salesperson and I am particularly good at taking a new product, earning it its first 50 users, and using their insights to chase a better product-market fit.
 
 ### Legal stuff and disclaimers
 
