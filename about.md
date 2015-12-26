@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Greg Hluska (I pronounce it huh-luska) and I am a full stack digital marketer from Regina, Canada. A graduate of the University of Regina's School of Business, I have several years of experience founding companies (funded and bootstrapped), running marketing campaigns, doing sales, and building things for the web. Accounting was my initial love so all of my businesses are built around solid accounting principles and a razor sharp focus on cost.
+My name is Greg Hluska (I pronounce it huh-luska) and I am a full stack digital marketer, an entrepreneur and an activist  from Regina, Canada. A graduate of the University of Regina's School of Business, I have several years of experience founding companies (funded and bootstrapped), running marketing campaigns, doing sales, and building things for the web. Accounting was my initial love so all of my businesses are built around solid accounting principles and a razor sharp focus on cost.
 
 ### What is a full stack digital marketer?
 
