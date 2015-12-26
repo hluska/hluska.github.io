@@ -21,3 +21,11 @@ After I have evaluated the current marketing condition, I like to do more resear
 Once I have completed that research, I like to write a report. Writing reports is mainly for me, but many of my clients find them very useful. For me, writing about something is the best way to learn about something. It primes my brain and, most of the time, if I write 2,500 words one day, by the next morning, I will have two or three brand new ideas.
 
 My reports tend to be fairly broad and full of wild ideas. This is by design. Traditionally, when I sit down with a decision maker and talk about the report, a large part of the conversation is about why certain ideas won't work. The joy of this is that talking about why something won't work is an excellent brainstorming tool that usually leads to coming up with the two or three brilliant ideas that make the difference between a good campaign and an extremely successful campaign.
+
+At this point, I go back to my laptop and write a very concrete marketing plan. This marketing plan contains three things:
+
+1. A concise summary of the product, its strengths and weaknesses.
+2. A concise marketing strategy.
+3. Specific tactics, time frames and budgets.
+
+And then, it's time to implement!
