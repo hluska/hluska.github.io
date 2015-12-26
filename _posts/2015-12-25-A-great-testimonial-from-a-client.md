@@ -6,7 +6,7 @@ desc: A former client wrote me a wonderful testimonial. It made me laugh.
 
 A few years ago, I did some work for an amazing startup and stayed very close to the founders. Last year, we started a company together. That company failed quickly, but when I asked Sanjay for a testimonial, he wrote:
 
-_Greg's the kind of guy who could figure out perpetual motion. It would be unorthodox and when you look at it you would think “how does that work?” But it would and then he would tell you everything that was wrong with it and how he would do it better next time. And then you would shake your head and think “holy fuck.”_
+> _Greg's the kind of guy who could figure out perpetual motion. It would be unorthodox and when you look at it you would think “how does that work?” But it would and then he would tell you everything that was wrong with it and how he would do it better next time. And then you would shake your head and think “holy fuck.”_
 
 Whenever I talk with former clients and/or co-founders, I like to focus on the strengths and weaknesses that their words reveal. Co-founders provide especially wonderful feedback. Since starting a company is so emotional and involves such deep personal buy in, my co-founders have always had the chance to see me at my best and at my worst.
 
