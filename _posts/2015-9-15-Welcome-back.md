@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome back!
+desc: As Vanilla Ice so aptly said, "I'm back and I'm ringing the bell. A-rockin' on the mic while the fly girls yell." Thank you Vanilla Ice.
 ---
 
 Welcome to a new, relaunched version of hluska.ca. I will be using this site to:
