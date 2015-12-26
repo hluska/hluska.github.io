@@ -4,7 +4,7 @@ title: A great testimonial from a client
 desc: A former client wrote me a wonderful testimonial. It made me laugh.
 ---
 
-A few years ago, I did some work for an amazing startup and stayed very close to the founders. Last year, we started a company together. That company failed quickly, but when I asked Sanjay for a testimonial, he wrote:
+A few years ago, I did some work for an amazing startup and stayed very close to the founders. After that company failed, we started a company together. That company failed quickly, but when I asked Sanjay for a testimonial, he wrote:
 
 > _Greg's the kind of guy who could figure out perpetual motion. It would be unorthodox and when you look at it you would think “how does that work?” But it would and then he would tell you everything that was wrong with it and how he would do it better next time. And then you would shake your head and think “holy fuck.”_
 
