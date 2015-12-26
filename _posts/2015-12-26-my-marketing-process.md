@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My marketing process
+desc: My marketing process starts at the experience of using the product or service and then works outwards to specific tactics.
 ---
 
 When I do any kind of marketing project, I always start at the product. This is traditionally the part of the process where I lose clients because it involves putting on a very critical eye and looking for flaws. If I am working for a restaurant, I like to go in with a few friends, order a meal and take a look around. I will evaluate the quality of the food, the service, and whether the decor matches the food and the price. Or, if I am working with a software/web/mobile application, I will sign up for the app and start working with it. At first, I will just try to complete some simple tasks with it, but later, I will do my absolute best to break the app.
