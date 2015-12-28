@@ -10,21 +10,22 @@ My name is Greg Hluska (I pronounce it huh-luska) and I am a full stack digital 
 
 I am comfortable working throughout the entire digital stack. I can:
 
-* Build a custom content management system (CMS) or more complex custom applications.
+* Build a custom content management system (CMS) or more complex custom applications. However, I prefer sending custom development offshore and managing the project.
 * Deploy major open source content management systems and build custom themes or plugins. I have the most experience with Wordpress, Drupal, Joomla and Magento.
 * Set up online payments with a particular emphasis on security and the payment card industry's data security standards (PCI-DSS).
 * Fill apps/websites with content, including technical support for users.
 * Promote apps/websites with a variety of on and off-line tools.
 * Analyze traffic with a variety of tools and use this analysis to determine which marketing channels provide the highest return on investment.
-* Relentlessly chase higher and higher returns on investment.
+* Collect and analyze usability metrics to make sure that customers get progressively happier as a business scales.
+* Relentlessly chase higher returns on investment.
  
-My experience as an entrepreneur and working with early stage technology companies has significantly changed my views about marketing. Consequently, I am a little more product obsessed than most other marketers. My obsession with product has lead me to focus on usability and reliability over raw technical brilliance. It has also lead me to consider functions like technical support, quality assurance (especially pre-release), and user experience as marketing functions.
+My experience as an entrepreneur and working with early stage technology companies has helped season me as a manager, trained me to manage my team through highly ambiguous projects, and taught me to get more done with minuscule budgets. Entrepreneurship has also significantly changed my views about marketing. Consequently, I am a little more product obsessed than most other marketers. My obsession with product has lead me to focus on usability and reliability over raw technical brilliance. It has also lead me to consider functions like technical support, quality assurance (especially pre-release), and user experience as marketing functions.
 
 Working for myself and other entrepreneurs has also made me rather obsessive about revenue. Years of making cold calls and closing inbound leads has turned me into a pretty decent salesperson and I am particularly good at taking a new product, earning it its first 50 users, and using their insights to chase a true product-market fit.
 
 ### Hobbies and other stuff
 
-An absolutely avid music fan, I am almost always listening to music. Sometimes when I listen to music, I get a little carried away and sometimes co-workers make fun of me for keeping the beat to whatever I'm listening to. _If you ask around, you may hear rumours about a certain propensity to air drum madly to Led Zeppelin at my desk._ I think there are amazing artists in every genre, so I can't list favourite genres. But, some of my favourite artists include Joy Division, Bad Religion, NOFX, Pennywise, the Wu Tang Clan, the Beastie Boys, New Order, Shirley Bassey, Led Zeppelin, Kansas, Bob Dylan, Neil Young, CSNY, the Band, and Johnny Cash.
+An absolutely avid music fan, I am almost always listening to music. Sometimes when I listen to music, I get a little carried away and sometimes co-workers make fun of me for keeping the beat to whatever I'm listening to. I think there are amazing artists in every genre, so I can't list favourite genres. But, some of my favourite artists include Joy Division, Bad Religion, NOFX, Pennywise, the Wu Tang Clan, the Beastie Boys, New Order, Shirley Bassey, Led Zeppelin, Kansas, Bob Dylan, Neil Young, CSNY, the Band, and Johnny Cash.
 
 When it is warm outside, I like camping, rock climbing, and hiking. I keep thinking that I will get into mountaineering as I can't shake the dream of climbing Denali. When it is cold outside, I like cross country skiing, ice climbing and sitting at home listening to music on vinyl.
 
