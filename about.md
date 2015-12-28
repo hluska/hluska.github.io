@@ -10,7 +10,7 @@ My name is Greg Hluska (I pronounce it huh-luska) and I am a full stack digital 
 
 I am comfortable working throughout the entire digital stack. I can:
 
-* Build a custom content management system (CMS).
+* Build a custom content management system (CMS) or more complex custom applications.
 * Deploy major open source content management systems and build custom themes or plugins. I have the most experience with Wordpress, Drupal, Joomla and Magento.
 * Set up online payments with a particular emphasis on security and the payment card industry's data security standards (PCI-DSS).
 * Fill apps/websites with content, including technical support for users.
