@@ -47,7 +47,7 @@ Generally, I will state any biases or conflicts that I have in the preamble to e
 
 ### Privacy
 
-When you visit my website, you leave all sorts of data about yourself and your useage of this site. Personally, I will only use this data to make my website better and focus on writing the types of content that people will find useful. I will never sell your data to anyone and will only share it if presented with a court order. I would like to be able to promise to vehemently fight any court order, but I don't have nearly enough money so I can't. In good news, I am relatively obscure and I write about fairly innocuous topics, so it likely won't come up.
+When you visit my website, you leave all sorts of data about yourself and your usage of this site. Personally, I will only use this data to make my website better and focus on writing the types of content that people will find useful. I will never sell your data to anyone and will only share it if presented with a court order. I would like to be able to promise to vehemently fight any court order, but I don't have nearly enough money so I can't. In good news, I am relatively obscure and I write about fairly innocuous topics, so it likely won't come up.
 
 Unfortunately, I use services provided by other people and I don't have enough money to control what they will do with your data. For example, I currently have Google Analytics installed on my website and while I think that Google's current privacy policy is adequate, I have no control over what they will do with your data in the future.
 
