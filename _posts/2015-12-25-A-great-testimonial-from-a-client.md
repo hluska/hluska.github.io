@@ -10,7 +10,7 @@ A few years ago, I did some work for an amazing startup and stayed very close to
 
 Whenever I talk with former clients and/or co-founders, I like to focus on the strengths and weaknesses that their words reveal. Co-founders provide especially wonderful feedback. Since starting a company is so emotional and involves such deep personal buy in, my co-founders have always had the chance to see me at my best and at my worst.
 
-Sanjay's words reveal my biggest strength and my biggest weakness. I'm not particularly sure that I'm talented - rather, I just work harder than anyone I know. And besides, I tend to fall more in line with the theory that 'talent' is just the result of thousands of hours of deliberate practice. But, if I had to point one my biggest talent, I would say that I am an excellent problem solver.
+Sanjay's words reveal my biggest strength and my biggest weakness. I'm not particularly sure that I'm talented - rather, I just work harder than anyone I know. And besides, I tend to fall more in line with the theory that 'talent' is just the result of thousands of hours of deliberate practice. But, if I had to point out my biggest talent, I would say that I am an excellent problem solver.
 
 The weird thing is that my biggest strength is also my biggest weakness. I am good at problem solving because I am good at spotting problems and thinking about creative ways to solve them. As Sanjay showed, this habit doesn't stop when I have actually solved a problem. Rather, I will pick apart my solution and keep solving the problems.
 
