@@ -6,7 +6,7 @@ desc: These are some useful, well written articles that I have come across so fa
 
 After the doldrums of the week between Christmas and New Years, I was excited to see some amazing articles start cropping up on various services. 
 
-1. [http://www.bloomberg.com/news/articles/2016-01-04/the-ghosts-of-baha-mar-how-a-3-5-billion-paradise-went-bust](The ghosts of Baha Mar: How a $3.5 billion paradise went bust)
+1. [http://www.bloomberg.com/news/articles/2016-01-04/the-ghosts-of-baha-mar-how-a-3-5-billion-paradise-went-bust] (The ghosts of Baha Mar: How a $3.5 billion paradise went bust)
 
 I have been lucky enough to do quite a bit of business with Chinese companies and my experiences have always been positive. Granted, I am lucky because I have always found Chinese culture fascinating and dream of eventually becoming fluent in Mandarin. In my experience, having some understanding of Chinese culture makes many of the problems cited in this article moot, but then again, I have never worked with such big numbers. Either way, this is an excellent article about the absolutely worst case scenario for a major real estate project with an international cast of investors.
 
