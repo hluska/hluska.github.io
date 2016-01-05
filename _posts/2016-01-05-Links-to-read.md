@@ -17,3 +17,7 @@ Paul Graham (founder of Viaweb/Y Combinator) is an absolute hero. His essays abo
 [Three hundred programming interviews in thirty days] (https://data.triplebyte.com/three-hundred-programming-interviews-in-thirty-days-12c23c26b5ba#.ro12lhu8n)
 
 I absolutely dropped the ball on this one. It was published one month ago, but I just found it today when it front paged Hacker News. Ammon Bartram though wrote an amazing, transparent article on what his startup (which builds better hiring processes for engineers) has learned from its first 30 days of operations. Definitely a must read for anyone hiring talent...even if the talent is not technical.
+
+[An update from Linode about the recent DDOS attacks] (http://status.linode.com/incidents/mmdbljlglnfd)
+
+It is always interesting to me when a large IAAS startup is victimized by a highly organized attack directed right at its reliability. My inner marketer wonders if it is an example of the tech industry's 'compete them to death' ethos. Even if this is not a competitive action, it is certainly interesting that a DDOS attack like this would happen over the holidays when most PR/communications types would be on holidays. That fact more than any other likely explains the days of radio silence from Linode. (Disclosure - I used to be a Linode customer, but chose to start hosting my websites elsewhere. Despite this, I still think their tech support is some of the best I have ever used.)
