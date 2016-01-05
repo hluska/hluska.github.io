@@ -21,3 +21,9 @@ I absolutely dropped the ball on this one. It was published one month ago, but I
 [An update from Linode about the recent DDOS attacks] (http://status.linode.com/incidents/mmdbljlglnfd)
 
 It is always interesting to me when a large IAAS startup is victimized by a highly organized attack directed right at its reliability. My inner marketer wonders if it is an example of the tech industry's 'compete them to death' ethos. Even if this is not a competitive action, it is certainly interesting that a DDOS attack like this would happen over the holidays when most PR/communications types would be on holidays. That fact more than any other likely explains the days of radio silence from Linode. (Disclosure - I used to be a Linode customer, but chose to start hosting my websites elsewhere. Despite this, I still think their tech support is some of the best I have ever used.)
+
+[Twitter considering 10,000 character limit for tweets] (http://recode.net/2016/01/05/twitter-considering-10000-character-limit-for-tweets/)
+
+This strikes me as one of the worst ideas that I have ever heard. I'll admit that I haven't used Twitter in over a year and that I only use social media accounts now to buy ads, so I'm not exactly a user of the service. But if you take away the 140 character limit, you're left with Facebook. Jack Dorsey is under huge pressure to grow the user base, but Twitter, by its definition does not appeal to everyone. In fact, that was my initial draw to the service - I got to follow the smartest people I know and learn what they are thinking in particular moments, and in relation to certain events.
+
+I tend to argue that Twitter is a protocol, not a service and as such, it really had no business going public. When Wall Street applies its valuation lens to a protocol, the results usually aren't good. TCP/IP would have died had it gone public just a few years after launch and yet, where would our economy be without those important protocols??
