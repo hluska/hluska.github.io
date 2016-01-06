@@ -12,7 +12,9 @@ I have been lucky enough to do quite a bit of business with Chinese companies an
 
 [Income inequality](http://www.paulgraham.com/ineq.html)
 
-Paul Graham (founder of Viaweb/Y Combinator) is an absolute hero. His essays about starting and running successful high growth companies were the perfect supplement to business school. And his essays on Lisp convinced me that there was something to functional programming. Consequently, when he writes something controversial, I tend to look the other way - it isn't PG being a wrongheaded elitist. It is simply PG being PG. In this case though, try as I might, I can't understand what PG's many critics are talking about. Perhaps this is a sign that an unabashed fan boy, or maybe it's a sign that my ideas about economics are just skewed to those of the tech industry. But whatever it is, I agree with PG here.
+Paul Graham (founder of Viaweb/Y Combinator) is an absolute hero. His essays about starting and running successful high growth companies were the perfect supplement to business school. And his essays on Lisp convinced me that there was something to functional programming. Consequently, when he writes something controversial, I am significantly biased in his favour. This particular article unleashed a torrent of horribly written, condescending, and contradictory articles against it. In this case, I cannot understand what PG's critics are talking about. Perhaps this is a sign that I am an unabashed fan boy, or maybe it's a sign that my ideas about economics are just skewed to those of the tech industry. But whatever it is, I agree with PG here.
+
+Fundamentally, you cannot solve inequality by taking from others.
 
 [Three hundred programming interviews in thirty days] (https://data.triplebyte.com/three-hundred-programming-interviews-in-thirty-days-12c23c26b5ba#.ro12lhu8n)
 
