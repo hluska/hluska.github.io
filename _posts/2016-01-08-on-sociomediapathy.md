@@ -7,7 +7,7 @@ desc: Neal Stephenson (one of my favourite living authors) wrote a great article
 I really enjoy Neal Stephenson. Along with William Gibson, Aldous Huxley, and George Orwell, Stephenson's fiction has been incredibly important in the formation of my political beliefs, especially where my political beliefs intersect with  technology. Therefore, it is important to note that I am deeply biased in his favour and have difficulty critically 
 dissecting his work. Because of this, I strongly encourage you to [read the post that this article is based on](http://www.nealstephenson.com/social-media.html) and form your own opinions before you place too much trust in mine.
 
-In this article, I would like to focus on two things. First, I would like to focus on productivity in the age of social media. And second,, I would like to focus on what engaging in social media does to us on a deep, emotional level.
+In this article, I would like to focus on two things. First, I would like to focus on productivity in the age of social media. And second, I would like to focus on what engaging in social media does to us on a deep, emotional level.
 
 First, a quote from the article:
 
