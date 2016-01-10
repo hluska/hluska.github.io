@@ -1,0 +1,41 @@
+---
+layout: post
+title: The malvertising plague
+desc: Malicious advertising is on the rise and users are being infected at alarming rates. What can the digital marketing industry do to curb this dangerous threat?
+---
+
+In a scene straight out of a Mel Brooks movie, Forbes was recently used to serve malicious software (malware) from ads appearing on their website. The funny part is that Forbes forced its readers to disable their ad blockers...and then promptly served them malware from the formerly blocked ads. This is one of those PR nightmares that would almost be funny if malvertising (malicious and advertising) wasn't such a serious issue for digital marketers to take stock of.
+
+Ad networks have been serving malicious software since at least 2007 and as their toolkits have gotten more sophisticated, malvertising has been growing steadily. Malvertising is a big enough deal that Symantec has started tracking it in its famed series of Internet Threat Reports. When the [New York Times was attacked in September 2009](http://www.nytimes.com/2009/09/15/technology/internet/15adco.html?_r=0), malvertising started to receive some coverage in mainstream publications. But other major services were soon used to attack users.
+
+[In 2011, Spotify served malicious ads](http://www.bbc.com/news/technology-12891182) to people with free subscriptions who ran their Windows desktop client. In 2013, the Los Angeles Times served malicious ads which redirected their users to install Blackfish, a particular nasty exploit kit. As Brian Krebs noted in his coverage of the attack, [these exploits sat on the LA Times website for six weeks before being discovered and scrubbed](http://krebsonsecurity.com/2013/02/exploit-sat-on-la-times-website-for-6-weeks/). Other services like the Huffington Post and Yahoo have also served malicious ads.
+
+Malvertising schemes tend to operate in a similar way:
+
+1. Often impersonating a legitimate company, criminals will purchase space on ad networks.
+2. They will upload malware free ads to build trust.
+3. After a week or so, they will upload ads that will use one of a number of threat vectors (Flash is especially common) to infect a user's computer with malicious software.
+
+Perhaps most troubling is the fact that the criminals involved are not only infecting users via one of the many dodgy ad networks out there. Google's [DoubleClick ad network has been used to attack users](https://blog.malwarebytes.org/malvertising-2/2014/09/googles-doubleclick-ad-network-abused-once-again-in-malvertising-attacks/) at least twice.
+
+This is unquestionably bad news for users. For years, the dominant advice to internet users was to stay away from sketchy websites because you have no idea what kind of crap they will infect your machine with. Now though, users are getting attacked when they are on big, mainstream websites. These kinds of attacks are particularly nasty since in many cases, the user doesn't even need to click on an ad to be infected!
+
+But, it is also bad news for publishers. Attacks like this only make adblockers more attractive to mainstream users. The problem with adblockers is that they deprieve free, online publications from one of their last remaining revenue sources. You cannot underestimate how bad this could be for the state of online journalism. Paywalls mostly do not work, which left display ads as the best opportunity to monetize content. What happens to online journalism when display ads disappear? And how should a publication respond when it has infected users with malware?
+
+The last question is particularly difficult to answer. On one hand, publishers are rarely to blame for the attacks. Very few publishers run their own ad networks, instead they outsource this to third parties. If all the infections were coming from dodgy ad networks, you could justify blaming publishers, but even Google has been used to serve malicious ads. On the other hand, publishers (like Forbes) often force users to display ads in order to access content.
+
+The digital marketing industry will be caught in the crosshairs. Digital marketers have been using some very sketchy techniques to boost clickthru rates for years and in a sense, it is no surprise that criminals have jumped on this bandwagon. But, digital marketers can lose out in two other, less obvious ways.
+
+1. Smart users will start running adblockers by default and will ignore content that forces them to display ads. Obviously, this will reduce impressions, but it will also make display ads look bad. It doesn't take took much of an imagination to foresee a day when running display ads online will actually hurt a brand's reputation. If you remove display ads from an advertiser's repertoire, you're removing one of the best tools to build up front-of-mind awareness.
+2. Digital marketing has a bad enough reputation already. Years of assholes who proclaim themselves 'SEO experts' or 'social media gurus' have tarnished the field's reputation. Ad tech is under attack for causing massive bloat on websites. What happens when our tools are fully coopted by criminals and used to serve malicous software?
+
+Unlike publishers, digital marketers have a few strong responses available.
+
+1. _Go old school._ This sounds extreme, but many of the tools designed to boost return on investment have turned out to be horrible for the web. Consider web pages that force you to download 10mb of material in order to read a short, text-only article. The vast majority of that cruft is ad tech. This is unquestionably bad for mobile experiences and frankly, it makes my privacy hurt. Do digital marketers really need such outlandish tools to track users or could we simply work harder to show ROI? I'm a huge fan of text-only ads that lead to a unique landing page. This is how we used to do things five or six years ago. It isn't as powerful as modern technology, but it creates a much smaller attack surface.
+2. _Double down on customer experience._ If I show you one million ads that say "Buy Acme Boobytraps", you will likely know that Acme makes boobytraps. On the other hand, if your friend Wile E. invites you over for a barbecued Roadrunner and tells you how he couldn't have caught the little bastard without Acme's help, you will likely become a customer. A good experience will always beat a good pitch, mostly because word of mouth is the most powerful tool in a brand manager's arsenal.
+3. _Double down on content._ A few days ago, I wrote an [article that was ostensibibly about an article on Neal Stephenson's website](http://www.hluska.ca/on-sociomediapathy/), but that got into my productivity while I was a Twitter user and finished with a neurological explanation for why social media can be such a negative place. The noteworthy part is that since I published the article, two things have happened. First, my direct traffic to that article has skyrocketed. This normally means that people are emailing the link around. Second, more people have contacted me through my site's contact form in the last two days than have contacted me in the previous six weeks. I'm not selling anything, but what if I was? How many of those leads could I convert into full fledged sales? And how much money would I have to pay to get that many leads through ads? Past experience tells me that that much traffic, converting into that many leads would have cost me at least $1,000. The article took me about an hour to write and edit. In other words, I got the results that I would get from about $1,000 in ads from spending one hour to write one timely and highly targeted article. That is one hell of a return and, though not typical. it represents what is possible with good, timely content.
+
+Reading over this article, it is ironic to me how little the fundamentals of marketing have changed over the last few years. We have much fancier ad technology today than we ever had before, but this technology is arguably being used against the very consumers that we are trying to reach. Consequently, the basic principles - treat your customer well, solve a real problem, form a relationship and be useful are still incredibly powerful.
+
+You should also [hire me](http://hluska.ca/contact)...I'm likely cheaper than you think. 
+
