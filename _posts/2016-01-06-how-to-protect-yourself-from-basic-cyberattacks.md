@@ -30,7 +30,7 @@ Using your computer as a basic user takes a little more time and it won't provid
 
 Passwords are my biggest pet peeve about computing today. This is an area where our minds simply aren't equipped to deal with the complexity of being secure. a password like G673+wE6.asX is highly secure, but what if that was your password for gmail and your password for Facebook was 54_wYu0$qA3? Would you be able to remember those two and keep them straight??
 
-I know that I sure can't, so I use free password manager and simply copy and paste my login info on various sites.
+I know that I sure can't, so I use a free password manager and simply copy and paste my login info on various sites.
 
 Simply having strong unique passwords on every service you use will go a long ways towards protecting you. Password managers make that easier because seriously, who can remember strong passwords???
 
