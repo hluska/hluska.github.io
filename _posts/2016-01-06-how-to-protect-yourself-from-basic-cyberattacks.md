@@ -34,4 +34,4 @@ I know that I sure can't, so I use free password manager and simply copy and pas
 
 Simply having strong unique passwords on every service you use will go a long ways towards protecting you. Password managers make that easier because seriously, who can remember strong passwords???
 
-And, there you have it. If you follow those two bits of advice, you can protect yourself from a wide array of cybercrime. This won't protect you from everything, but it will protect you from the majority of qttacks. Anything else you add in (keeping your computer properly updated, running anti-virus software, or running a firewall) will improve things even further, but if you do nothing else, do those two things.
+And, there you have it. If you follow those two bits of advice, you can protect yourself from a wide array of cybercrime. This won't protect you from everything, but it will protect you from the majority of qttacks. Anything else you add in (keeping your computer properly updated, ~~running anti-virus software~~, or running a firewall) will improve things even further, but if you do nothing else, do those two things.
