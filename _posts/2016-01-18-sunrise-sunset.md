@@ -16,7 +16,7 @@ That evening, Grandma and I sat up until nearly 5am, drinking copious amounts of
 
 Grandma was tough like that. After the story, she told me about a letter she wrote to one of Grandpa's sisters that was, for lack of a better term, fucking brutal. Grandma regretted sending that letter, but she never regretted standing up for the love of her life.
 
-Grandma also talked about her loneliness. She had never dated after my Grandpa's death and yet she certainly noticed men. She talked about seeing new widowers, their hair sliced back just so, bright gold necklaces and the smell of cologne.
+Grandma also talked about her loneliness. She had never dated after my Grandpa's death and yet she certainly noticed men. She talked about seeing new widowers, their hair slicked back just so, bright gold necklaces and the smell of cologne.
 
 And, Grandma also talked about family. She was deeply committed to her children (my Dad and my Auntie Betty) and grandchildren. She talked about how love meant that sometimes you didn't agree with your own, but they were always your own and as such, you needed to defend them. My Grandma had the world's only two perfect children, five perfect grandchildren and four perfect great-grandchildren.
 
@@ -28,7 +28,7 @@ Nor will I forget the last Christmas that I ever spent with Grandma or the hilar
 
 Afterwards, we went back to my Dad and Roberta's home. My Grandma and I sat in the living room and had another of our amazing talks. She talked about 'the nice Scottish couple' she lived with when she was working at a convenience store in a mining town. And she talked about the mischievous Ukrainian coal miner who used to come in daily to buy a chocolate bar. At first, she thought that he must have really liked candy. But after awhile, she came to realize that he really liked her.
 
-Whenever my Grandma and I would part ways after too short of a visit, we would hug and she would say, "Parting is such sweet sorrow." Then, her lips contorted that oh-so familiar look of mischief and she remarked, "Not that there's anything particularly sweet about this."
+Whenever my Grandma and I would part ways after too short of a visit, we would hug and she would say, "Parting is such sweet sorrow." Then, her lips contorted into that oh-so familiar look of mischief and she remarked, "Not that there's anything particularly sweet about this."
 
 Parting is such sweet sorrow and no, there is nothing particularly sweet about this.
 
