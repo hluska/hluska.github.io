@@ -4,6 +4,8 @@ title: Links to read - January 19, 2016
 desc: There were some excellent articles published during the week of January 12-19.
 ---
 
+This week, my favourite articles were about Bitcoin, Tor hidden services, capturing El Chapo...and venture funding. I hope that you enjoy reading them and that you learn as much as I did.
+
 [A More Secure and Anonymous Propublica Using Tor Hidden Services](https://www.propublica.org/nerds/item/a-more-secure-and-anonymous-propublica-using-tor-hidden-services)
 
 I am a huge fan of Tor. Armed with Tor, people in repressive regimes can use the open web and access uncensored news reports. Activists can coordinate their activities via Tor. And people who are simply concerned about having greedy marketers track their every move can use Tor to obfuscate their online activities. But, hidden services have always been tough for me to defend. The dark web seems mostly inhabited by criminals and sadly, when you ask the average person about Tor, they tend to mention the Silk Road fairly quickly in the conversation.
