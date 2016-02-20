@@ -6,7 +6,7 @@ desc: It has been nearly five years since I left my position at Netsecure Techno
 
 In May 2011, I left an excellent job at a local startup called Netsecure Technologies. Our flagship product (SmartSwipe) had become a huge part of my life, the team was like my family, and I had carved out a very interesting job that managed to combine writing, working with people, buildin web apps, and leading a very innovative team. Alas, my desire to publish a magazine was rekindled and I got rather obsessed with a software product that I needed to publish it. So, with one year of runway saved up, I left the SmartSwipe project behind and went out on my own.
 
-##Startup #1 - a return to publishing##
+##Organization #1 - a return to publishing##
 
 Publishing is the most addictive thing I have ever tried. The thrill of going from an empty InDesign document to watching people walking around, reading my print magazine was unlike anything I have ever experienced. Working with writers was unbelievably rewarding, and being able to freely publish under pseudonyms was icing on the cake.
 
@@ -50,3 +50,7 @@ _Greg, publishing is completely fucked. Nobody pays for content, nobody pays for
 As sometimes happens, when things look hopeless, you end up accidentally solving a really hardcore problem. I was bored at a conference and ended up finding a [OneAPI](http://www.programmableweb.com/api/gsma-oneapi-payment-0) booth. A quick implementation later and our payment problem was solved...sort of.
 
 Code aside, there were still huge implementation challenges. The biggest was that, by the nature of street papers, our vendors often needed to get paid faster than our solution could. There were also pesky problems related to bank accounts, tax documents, and even the legal status of contractors. Ultimately, it proved nearly impossible to find a solution that could get people with no credit, no bank accounts, and no mobile devices paid quickly in a cashfree economy. But, we did come up with an easy to use solution to provide mobile payment and distribution to magazine customers. That was a victory, though a small one.
+
+In the end, our association never got off the ground. The product that held it all together simply proved impossible with our resources. It wasn't all negative though as this proved to be the most intellectually stimulating year of my life. Over that year, I learned an immense amount about leading remote teams, building web applications, and fundraising. I also made the transition into a power Git user! Most importantly though, I learned the value of building something that you truly need as opposed to trying to manufacture an idea for a business.
+
+But as a business, this one was an incredible failure. We found one customer who paid us to implement our solution on server resources that they provided. That publication did not survive one year in business. Their feedback was extremely positive and it felt good to build something that a real live magazine used to solve some of its most pressing problems. But, positive feedback is a long way from the mass adoption that we dreamed of.
