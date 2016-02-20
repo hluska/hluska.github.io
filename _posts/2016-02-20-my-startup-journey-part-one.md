@@ -33,6 +33,20 @@ Fuck.
 
 Our business model was stagnating and we got to a point where we had a very difficult choice. If we wanted to actually open our association to members, we would need some funds to actually run the applications we were built around. But, our potential members could not afford to pay membership fees. So, we had long, difficult conversations about whether we should incorporate and seek out investors, or start looking for grants from government or charitable organizations. Considering that our entire association was founded with a mandate of building strong publications that would not rely upon grants or donations to run, the idea of going out to get grants was not very palatable. That said, we were all business minded hackers, so we knew that this would be a very hard model to sell to investors.
 
-_Hey uh, Mr. Venture Capitalist, uh, we plan to get you a 20x return by solving poverty._
+_Hey uh, Mr. Venture Capitalist, uh, we plan to get you a 20x return by uh, solving poverty._
+
 _Get the fuck out of my office._
 
+In one of the more entertaining Skype calls of my entire life, my cofounders and I agreed that we would try to turn this into a business. Since my Github for writers/advertisers was finished and they were still hard at work integrating it into the web based desktop publishing tool, I was nominated to go out and start trying to find investment. In a particularly entertaining moment, one of my friends said something like, "This sounds completely insane and not even remotely possible. Greg is perfect for it."
+
+_Cash rules everything around me, C.R.E.A.M., Get the money, dollar dollar bills y'all._ (C.R.E.A.M by the Wu-Tang Clan)
+
+Off I went into a cold, hard world of investment where, to my incredible surprise, I actually managed to drum up some serious interest. Investors didn't like our model at all and felt that the desktop publishing tool was a total write off, but they really like the Github for writers angle. In several meetings, investors asked me if the whole team would leave the whole street paper idea behind and fully commit to Github for writers. I always said no because frankly, that idea was way too easy to copy. Git was open source - all I did was build a really simple web interface to Git and change the verbs into more writer/editor friendly variants. We would have no competitive advantage unless we looked at that product as one part of a suite of tools for publishers.
+
+In one particularly interesting conversation, a partner with a VC firm and I sparred over whether I was actually looking for an investment or a donation. He said something like:
+
+_Greg, publishing is completely fucked. Nobody pays for content, nobody pays for ad space, and outside of a few huge publications who would never use your product, journalism is completely fucked. Come back when the New York Times agrees to pay you._
+
+As sometimes happens, when things look hopeless, you end up accidentally solving a really hardcore problem. I was bored at a conference and ended up finding a [OneAPI](http://www.programmableweb.com/api/gsma-oneapi-payment-0) booth. A quick implementation later and our payment problem was solved...sort of.
+
+Code aside, there were still huge implementation challenges. The biggest was that, by the nature of street papers, our vendors often needed to get paid faster than our solution could. There were also pesky problems related to bank accounts, tax documents, and even the legal status of contractors. Ultimately, it proved nearly impossible to find a solution that could get people with no credit, no bank accounts, and no mobile devices paid quickly in a cashfree economy. But, we did come up with an easy to use solution to provide mobile payment and distribution to magazine customers. That was a victory, though a small one.
