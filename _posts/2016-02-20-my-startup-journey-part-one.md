@@ -4,7 +4,7 @@ title: My startup journey (part 1) - the startup that wasn't
 desc: It has been nearly five years since I left my position at Netsecure Technologies. In that time, I have been involved in three different teams, gone through several pivots, and learned many lessons.
 ---
 
-In May 2011, I left an excellent job at a local startup called Netsecure Technologies. Our flagship product (SmartSwipe) had become a huge part of my life, the team was like my family, and I had carved out a very interesting job that managed to combine writing, working with people, buildin web apps, and leading a very innovative team. Alas, my desire to publish a magazine was rekindled and I got rather obsessed with a software product that I needed to publish it. So, with one year of runway saved up, I left the SmartSwipe project behind and went out on my own.
+In May 2011, I left an excellent job at a local startup called Netsecure Technologies. Our flagship product (SmartSwipe) had become a huge part of my life, the team was like my family, and I had carved out a very interesting job that managed to combine writing, working with people, building web apps, and leading a very innovative team. Alas, my desire to publish a magazine was rekindled and I got rather obsessed with a software product that I needed to publish it. So, with one year of runway saved up, I left the SmartSwipe project behind and went out on my own.
 
 ##Organization #1 - a return to publishing##
 
