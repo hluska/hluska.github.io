@@ -8,3 +8,5 @@ Yesterday, the New Yorker ran a story on whether or not Uber can change, even af
 Right now, it is very hard to open up Hacker News without finding one of two 'death to Uber' articles on its front page. So, I am conducting a test. I just submitted that article to HN and I predict that it will end up on the front page.
 
 Edit #1 - 20 minutes in and the New Yorker article has not made the front page. I might be about to eat my hat here! Has Hacker News simply gotten sick of Uber coverage, or did the other readers notice that it doesn't have anything we don't already know?
+
+Edit #2 - The New Yorker article ended up with a total of 17 points, but never made the front page. I was wrong.
